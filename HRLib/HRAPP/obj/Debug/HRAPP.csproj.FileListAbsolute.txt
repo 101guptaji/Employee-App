@@ -1,0 +1,10 @@
+D:\HDD\PI Techniques\Training\HRLib\HRAPP\bin\Debug\HRAPP.exe.config
+D:\HDD\PI Techniques\Training\HRLib\HRAPP\bin\Debug\HRAPP.exe
+D:\HDD\PI Techniques\Training\HRLib\HRAPP\bin\Debug\HRAPP.pdb
+D:\HDD\PI Techniques\Training\HRLib\HRAPP\bin\Debug\HRLib.dll
+D:\HDD\PI Techniques\Training\HRLib\HRAPP\bin\Debug\HRLib.pdb
+D:\HDD\PI Techniques\Training\HRLib\HRAPP\obj\Debug\HRAPP.csproj.AssemblyReference.cache
+D:\HDD\PI Techniques\Training\HRLib\HRAPP\obj\Debug\HRAPP.csproj.CoreCompileInputs.cache
+D:\HDD\PI Techniques\Training\HRLib\HRAPP\obj\Debug\HRAPP.csproj.CopyComplete
+D:\HDD\PI Techniques\Training\HRLib\HRAPP\obj\Debug\HRAPP.exe
+D:\HDD\PI Techniques\Training\HRLib\HRAPP\obj\Debug\HRAPP.pdb

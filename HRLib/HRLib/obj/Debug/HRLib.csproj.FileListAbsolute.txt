@@ -1,0 +1,6 @@
+D:\HDD\PI Techniques\Training\HRLib\HRLib\bin\Debug\HRLib.dll
+D:\HDD\PI Techniques\Training\HRLib\HRLib\bin\Debug\HRLib.pdb
+D:\HDD\PI Techniques\Training\HRLib\HRLib\obj\Debug\HRLib.csproj.AssemblyReference.cache
+D:\HDD\PI Techniques\Training\HRLib\HRLib\obj\Debug\HRLib.csproj.CoreCompileInputs.cache
+D:\HDD\PI Techniques\Training\HRLib\HRLib\obj\Debug\HRLib.dll
+D:\HDD\PI Techniques\Training\HRLib\HRLib\obj\Debug\HRLib.pdb
